@@ -2,9 +2,9 @@
   <img src="assets/sidra-logo.png" width="90" alt="SIDRA logo" />
 </p>
 
-<h1 align="center">SIDRA OS</h1>
+<p align="center"><strong>SIDRA OS</strong></p>
 
-<p align="center"><strong>Turn the AI chat you already use into a real agent on your computer.</strong></p>
+<h1 align="center">Turn the AI chat you already use into a real agent on your computer.</h1>
 
 <p align="center">
   macOS + Windows · SIDRA OS 3.0.0 Stable
