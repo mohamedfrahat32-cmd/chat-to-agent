@@ -294,8 +294,8 @@ See a normal AI chat take a complete task from request to real execution on the 
 
 ## AI orchestration, delegation, and real computer control
 
-<a href="https://youtu.be/bn5XpDZAPDo">
-  <img src="https://img.youtube.com/vi/bn5XpDZAPDo/maxresdefault.jpg" alt="Watch SIDRA OS orchestration and delegation demo on YouTube" width="100%" />
+<a href="https://youtu.be/cHAQZhdmvXc">
+  <img src="https://img.youtube.com/vi/cHAQZhdmvXc/maxresdefault.jpg" alt="Watch SIDRA OS orchestration and delegation demo on YouTube" width="100%" />
 </a>
 
 <p align="center"><strong>▶ Watch SIDRA OS orchestrate the workflow</strong></p>
